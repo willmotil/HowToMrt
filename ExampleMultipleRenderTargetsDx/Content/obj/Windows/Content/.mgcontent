@@ -4,8 +4,8 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/will/MainFiles/MyProjects2018/A50_HowToExamples/HowToMrt/ExampleMultipleRenderTargetsDx/Content/MrtEffect.fx</File>
-    <File>C:/Users/will/MainFiles/MyProjects2018/A50_HowToExamples/HowToMrt/ExampleMultipleRenderTargetsDx/Content/SbMrtEffect.fx</File>
+    <File>C:/Users/will/MainFiles/GitPrjs/HowToMrt/ExampleMultipleRenderTargetsDx/Content/MrtEffect.fx</File>
+    <File>C:/Users/will/MainFiles/GitPrjs/HowToMrt/ExampleMultipleRenderTargetsDx/Content/SbMrtEffect.fx</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

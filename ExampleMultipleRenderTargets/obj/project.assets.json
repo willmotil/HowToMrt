@@ -180,11 +180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\will\\MainFiles\\MyProjects2018\\A50_HowToExamples\\HowToMrt\\ExampleMultipleRenderTargets\\ExampleMultipleRenderTargets.csproj",
+      "projectUniqueName": "C:\\Users\\will\\MainFiles\\GitPrjs\\HowToMrt\\ExampleMultipleRenderTargets\\ExampleMultipleRenderTargets.csproj",
       "projectName": "ExampleMultipleRenderTargets",
-      "projectPath": "C:\\Users\\will\\MainFiles\\MyProjects2018\\A50_HowToExamples\\HowToMrt\\ExampleMultipleRenderTargets\\ExampleMultipleRenderTargets.csproj",
+      "projectPath": "C:\\Users\\will\\MainFiles\\GitPrjs\\HowToMrt\\ExampleMultipleRenderTargets\\ExampleMultipleRenderTargets.csproj",
       "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\will\\MainFiles\\MyProjects2018\\A50_HowToExamples\\HowToMrt\\ExampleMultipleRenderTargets\\obj\\",
+      "outputPath": "C:\\Users\\will\\MainFiles\\GitPrjs\\HowToMrt\\ExampleMultipleRenderTargets\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

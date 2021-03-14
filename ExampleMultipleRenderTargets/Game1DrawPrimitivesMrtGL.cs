@@ -66,9 +66,9 @@ namespace ExampleMultipleRenderTargets
 
             GraphicsDevice.SetRenderTargets(renderTargetBinding);
             GraphicsDevice.Clear(Color.DarkBlue);
-            mrtEffect.Parameters["DiffuseTexture"].SetValue(texture);
+            mrtEffect.Parameters["DiffuseTexture"].SetValue(texture); // aquaish texture.
             DrawUserColoredRectangle( new Rectangle(100, 100, 200, 200), Color.Aqua, mrtEffect);
-            DrawUserColoredRectangle( new Rectangle(150, 150, 200, 200), Color.Red, mrtEffect);
+            DrawUserColoredRectangle( new Rectangle(150, 150, 200, 200), Color.White, mrtEffect);
 
 
             // draw the rendertargets to screen.
