@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/will/MainFiles/MyProjects2018/A50_HowToExamples/HowToMrt/ExampleMultipleRenderTargets/Content/MrtEffect.fx","C:/Users/will/MainFiles/MyProjects2018/A50_HowToExamples/HowToMrt/ExampleMultipleRenderTargets/Content/bin/DesktopGL/Content/MrtEffect.xnb","EffectProcessor","CompiledEffectContent",1714,1726,0.4909548
+"C:/Users/will/MainFiles/MyProjects2018/A50_HowToExamples/HowToMrt/ExampleMultipleRenderTargets/Content/SbMrtEffect.fx","C:/Users/will/MainFiles/MyProjects2018/A50_HowToExamples/HowToMrt/ExampleMultipleRenderTargets/Content/bin/DesktopGL/Content/SbMrtEffect.xnb","EffectProcessor","CompiledEffectContent",1445,496,0.3165802
